@@ -1,5 +1,8 @@
 PL/EN
 
+Java version: Java 1.8
+IDE: Intelij IDEA
+
 Instrukcja uruchamiania testów:
 mvn surefire-report:report  	<- uruchamia wszystkie testy i generuje raport (target/site/surefire-report.html)
 
